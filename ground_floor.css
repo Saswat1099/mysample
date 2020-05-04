@@ -1,0 +1,168 @@
+.container{
+	margin: 0;
+	position: relative;
+}
+
+.button{
+	background-color:black;
+	color:#fff;
+	border:none;
+	padding: 2px;
+}
+
+a{
+	color:black;
+}
+
+a:hover{
+	color:red;
+}
+
+h3{
+	padding: 10px;
+	color: white;
+	font-family: sans-serif;
+	font-size: 25px;
+}
+
+div {
+  text-align: center;
+}
+
+img{
+	width: 100%;
+}
+
+.classroom-left-1 {
+  background: #ff751a;
+  position: absolute;
+  width: 150px;
+  height: 135px;
+  left: 294px;
+  top: 9px;
+}
+
+.classroom-left-2 {
+  background: #ff751a;
+  position: absolute;
+  width: 150px;
+  height: 135px;
+  left: 294px;
+  top: 155px;
+}
+
+.classroom-left-3 {
+  background: #ff751a;
+  position: absolute;
+  width: 150px;
+  height: 103px;
+  left: 294px;
+  top: 300px;
+}
+
+.stairs-1 {
+  background: red;
+  position: absolute;
+  width: 150px;
+  height: 75px;
+  left: 294px;
+  top: 410px;
+}
+
+.stairs-1 .button {
+  position: absolute;
+  width: 60%;
+  left: 30px;
+  bottom: 40px;
+}
+
+
+.openspace-2 {
+  background: rgb(154,220,50);
+  position: absolute;
+  width: 146px;
+  height: 133px;
+  left: 294px;
+  top: 692px;
+}
+
+.classroom-right-1 {
+  background: #ff751a;
+  position: absolute;
+  width: 150px;
+  height: 135px;
+  left: 580px;
+  top: 9px;
+}
+
+.classroom-right-2 {
+  background: #ff751a;
+  position: absolute;
+  width: 150px;
+  height: 132px;
+  left: 580px;
+  top: 155px;
+}
+
+.washroom {
+  background: rgb(200,130,100);
+  position: absolute;
+  width: 150px;
+  height: 108px;
+  left: 580px;
+  top: 293px;
+}
+
+.openspace-1 {
+  background: rgb(154,220,50);
+  position: absolute;
+  width: 240px;
+  height: 275px;
+  left: 580px;
+  top: 408px;
+}
+
+.principalroom {
+  background: #1ab2ff;
+  position: absolute;
+  width: 141px;
+  height: 178px;
+  left: 829px;
+  top: 504px;
+}
+
+.hodroom {
+  background: #1ab2ff;
+  position: absolute;
+  width: 164px;
+  height: 178px;
+  left: 980px;
+  top: 504px;
+}
+
+.stairs-2 {
+  background: red;
+  position: absolute;
+  width: 82px;
+  height: 138px;
+  left: 665px;
+  top: 773px;
+}
+
+.readingroom {
+  background: #1ab2ff;
+  position: absolute;
+  width: 174px;
+  height: 138px;
+  left: 755px;
+  top: 773px;
+}
+
+.library {
+  background: #1ab2ff;
+  position: absolute;
+  width: 206px;
+  height: 138px;
+  left: 938px;
+  top: 773px;
+}
