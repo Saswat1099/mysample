@@ -10,6 +10,10 @@
 	padding: 2px;
 }
 
+.container div:hover{
+  background: black;
+}
+
 a{
 	color:black;
 }
@@ -172,4 +176,40 @@ img{
   height: 125px;
   left: 928px;
   top: 788px;
+}
+
+.data-box{
+  border: 10px black solid;
+  background: white;
+  position: absolute;
+  width: 40%;
+  height: 55%;
+  right: 0.85%;
+  top: 1.6%;
+}
+
+.data{
+  padding: 50px;
+  padding-left: 70px;
+  text-align: left;
+  font-family:Tahoma;
+  font-weight:550;
+  font-size: 350%;
+  box-sizing: border-box;
+}
+
+.time-box{
+  border: 10px black solid;
+  background: white;
+  padding:10px;
+  position: absolute;
+  width: 25%;
+  height: 6%;
+  right: 2%;
+  top: 61.5%;
+}
+
+#time{
+  padding: 1.5em;
+  font-size: 1.6rem;
 }
